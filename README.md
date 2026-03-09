@@ -5,3 +5,4 @@ generate changelog from git history
 ```
 python main.py 1.0.0
 ```
+
