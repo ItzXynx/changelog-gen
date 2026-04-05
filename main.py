@@ -26,3 +26,4 @@ if __name__ == "__main__":
     with open("CHANGELOG.md", "w") as f:
         f.write(content)
     print(f"generated CHANGELOG.md with {len(commits)} commits")
+# updated
